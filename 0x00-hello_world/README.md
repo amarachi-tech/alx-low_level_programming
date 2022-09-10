@@ -1,1 +1,1 @@
-script that compiles C file and creates executable name
+a C programming that prints a text without using "printf"
